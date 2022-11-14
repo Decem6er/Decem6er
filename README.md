@@ -22,4 +22,4 @@
 | [@example](https://github.com/) | 0 |
 <!-- 2048Ranking -->
 
-Do you want to make your own? Check out the [Darkempire78's readme 2048 template](https://github.com/Decem6er/Decem6er)!
+Do you want to make your own? Check out the [Darkempire78's readme 2048 template](https://github.com/Darkempire78/Readme-2048)!
