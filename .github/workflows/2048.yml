@@ -41,4 +41,4 @@ jobs:
 
         env:
           # This is necessary in order to push a commit to the repo
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ _2048 }}
